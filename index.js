@@ -15,4 +15,4 @@ let i=0
     shoutFacts.push(`${facts[i]}!!!`);
   }
   return shoutFacts;
-}/*
+}*/
