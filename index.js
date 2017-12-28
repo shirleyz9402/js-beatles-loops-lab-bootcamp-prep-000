@@ -20,6 +20,9 @@ let i = 0
 }
 function iLoveTheBeatles(x) {
   var array = [];
+  if (x > 15)
+  {array.push("I love the Beatles!")
+  return array}
   let i = 0
   do {
    array.push("I love the Beatles!")
