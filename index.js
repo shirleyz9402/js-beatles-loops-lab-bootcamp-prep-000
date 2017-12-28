@@ -20,7 +20,7 @@ let i = 0
 }
 function iLoveTheBeatles(x) {
   var array = [];
-  x = 0
+  x = 1
   do {
    array.push("I love the Beatles!")
    x++
