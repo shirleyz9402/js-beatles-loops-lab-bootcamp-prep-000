@@ -20,9 +20,11 @@ let i = 0
 }
 function iLoveTheBeatles(x) {
   var array = [];
+  x = 1
   do {
-    array.push("I love the Beatles!");
-  } while (x < 15)
-  x++  
+   array.push("I love the Beatles!");
+  } 
+  while (x < 15)
+  x++
   return array;
 }
