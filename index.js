@@ -23,8 +23,9 @@ function iLoveTheBeatles(x) {
   x = 1
   do {
    array.push("I love the Beatles!")
+   return array
    x++
   } 
-  while (x <=8)
+  while (x < 15)
   return array;
 }
